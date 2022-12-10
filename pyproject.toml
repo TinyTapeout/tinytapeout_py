@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "tinytapeout_py"
+name = "tinytapeout"
 version = "0.0.1"
 authors = [
   { name="Matt Venn", email="matt@zerotoasiccourse.com" },
